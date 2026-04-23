@@ -1,0 +1,19 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# OS generated files (Mac/Windows junk files)
+.DS_Store
+Thumbs.db
