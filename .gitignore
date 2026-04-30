@@ -17,3 +17,6 @@ env/
 # OS generated files (Mac/Windows junk files)
 .DS_Store
 Thumbs.db
+
+#Ignored tempCodeRunner
+tempCodeRunnerFile.*
