@@ -70,7 +70,7 @@ Visualizations were generated using Matplotlib to uncover hidden patterns and an
 * **Action Plan for Retention:** To keep employees, the company needs to improve pay, strictly control overtime hours, and offer flexible work options or travel help.
 
 ## ⚠️ Limitations
-* **Imbalanced Dataset:** The dataset is heavily skewed (83% of employees left, while only 17% stayed), which can make it difficult to fully understand the minority group and may bias predictive models.
+* **Imbalanced Dataset:** The dataset is heavily skewed (83% of employees stayed, while only 17% left), which can make it difficult to fully understand the minority group and may bias predictive models.
 * **Static Snapshot:** The data represents a single point in time rather than a historical timeline, meaning it cannot capture long-term trends or how employee sentiment changes over months or years.
 * **Subjective Metrics:** Features such as Job Satisfaction and Work-Life Balance are based on self-reported survey data, making them vulnerable to personal bias.
 
