@@ -15,7 +15,7 @@ Rather than just reporting who left, this analysis dives into *why* they left—
 ## 🛠️ Tech Stack
 * **Language:** Python
 * **Data Manipulation:** `pandas`, `numpy`
-* **Data Visualization:** `matplotlib`, `seaborn`
+* **Data Visualization:** `matplotlib`
 * **Environment:** Jupyter Notebook
 
 ---
